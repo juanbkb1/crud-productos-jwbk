@@ -2,7 +2,7 @@
 
 ## Características
 - CRUD completo de productos
-- 15 categorías predefinidas
+- 5 categorías predefinidas
 - Eliminación con confirmación SweetAlert2
 - DataTables para listado dinámico
 
